@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "WP-Files"
+AuthUserFile D:\vhost\wwwroot\alltekusa\www\catalogs/wp-content/uploads/.htpasswd
+require valid-user
